@@ -1,2 +1,0 @@
-# Veebirakendus
-Veebirakenduste loomine
